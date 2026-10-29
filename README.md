@@ -4,11 +4,11 @@ An end-to-end Power BI project covering data preparation, transformation, data m
 
 ## 1. Project Overview
 
-This project explores sales performance across retail sales, online sales, and campaign sales. It uses Power BI to transform source data into interactive visual reports that help users explore sales, quantities, profits, products, customers, and promotional performance.
+This project analyzes retail sales, online sales, and campaign performance using Microsoft Power BI. It transforms sales data into interactive dashboards that provide insights into product demand, sales trends, profitability, customer activity, and promotional performance to support data-driven business decisions.
 
 ## 2. Problem Statement
 
-Sales data across different channels and campaigns can be difficult to analyze without organized reporting. This project brings key sales information together in interactive dashboards to make comparisons and business trends easier to understand.
+Sales data from different channels and promotional campaigns can be challenging to analyze without a structured reporting system. Identifying sales trends, comparing product performance, and understanding profitability can become time-consuming. This project uses interactive Power BI dashboards to organize and visualize sales information, making it easier to compare performance, identify business trends, and support informed decision-making.
 
 ## 3. Dataset
 
@@ -17,11 +17,11 @@ Data preparation: Data was loaded, cleaned, and transformed before visualization
 
 ## 4. Tools and Technologies
 
-Microsoft Power BI Desktop
-Power Query
-Data Cleaning and Transformation
-Data Modeling and Relationships
-DAX Measures
+Microsoft Power BI Desktop, 
+Power Query, 
+Data Cleaning and Transformation, 
+Data Modeling and Relationships, 
+DAX Measures, 
 Data Visualization
 
 ## 5. Methodology
@@ -44,6 +44,7 @@ Top retailers by units sold
 Product-wise quantity comparisons
 Product category and subcategory analysis
 Sales amount, product cost, and profit comparison
+
 ![Retail Sales Dashboard](Retail_Sales.png)
 
 ## B. Online Sales Performance
@@ -81,9 +82,9 @@ The project transforms raw sales data into three interactive Power BI dashboards
 
 ## 9. Future Improvements
 
-Add a sanitized sample dataset if sharing is permitted.
-Document selected data preparation and transformation steps.
-Improve the dashboard documentation with additional non-confidential analysis.
+1. Enhanced Analysis: Add deeper insights into sales trends, product performance, profitability, and campaign effectiveness.
+2. Dashboard Improvements: Enhance visualizations, filters, and navigation for a better user experience.
+3. Business Insights: Include actionable recommendations to support sales planning and business decision-making.
 
 ## Author
 
